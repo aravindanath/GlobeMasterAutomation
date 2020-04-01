@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec53dbc3-4531-47b3-9386-52f10e3f0f16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day1/DemoVariables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day10/LaunchChromeBrw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day12/openChrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day16/test_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/ListDemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/ParsingFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/RegEx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/RegularExpression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/jsonRead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/appium_ios_android/launch_App_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonSeleniumProject/new_pytest_module/test_usingMark_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Target2020PyAuto/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/.idea/PythonSeleniumProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/.idea/PythonSeleniumProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day1/dummy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day1/dummy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day1/keywordsList.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day1/keywordsList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day12/praticepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day14/praticepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day15/Data_Base_Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day15/Data_Base_Testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day15/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day15/selenium.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day16/Am001.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day16/Am001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day16/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day16/selenium.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day2/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day2/selenium.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day2/stringRealTime.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day2/stringRealTime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/ExampleTuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/ExampleTuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/demoDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/demoDict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/exampleDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/exampleDict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day3/selenium.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day7/DeprecationWarning.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day7/DeprecationWarning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day7/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day7/selenium.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/DummyReadXlsx.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/DummyReadXlsx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/ReadTextFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/ReadTextFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/TestData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/TestData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/WriteExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/WriteExcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/createNewFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/createNewFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/felcon.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/felcon.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/readWrXlsx.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/readWrXlsx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/read_xlsx.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/Day9/read_xlsx.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/LaunchBrowsers/openChrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/LaunchBrowsers/openChrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/PowerOfPython/selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/PowerOfPython/selenium.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/StepsForAllureReport" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/StepsForAllureReport" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/0910dc4b-cdee-4777-b20c-b899468cb7e0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/236d29cb-37b0-4613-ba4e-4cb0cdac4611-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/2b2189df-691b-4e91-b1cc-834f7bce2a34-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/3a31026f-df81-4e42-b1dd-b62c2da355d6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/62b7a9a5-969c-4f68-ba0e-106481307c1d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/72cedd71-881b-4c45-9b0b-54ca691b1ac9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/83063eee-9965-44a7-9f81-605a99141194-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/87d7bae4-f65d-4c51-8656-5bf2445fed2e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/a4cab2fc-38de-4759-8713-e1fda915835c-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/b9468884-ea94-4b92-a6fd-8148a4542fc6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/c7cd5e3d-1940-43fb-a2dc-73115ef4d50d-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/demo/Users/aravindanathdm/Documents/class/Python Selenium/Reports/e28b170b-e380-44b1-b542-61881c1ca196-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/test_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/allureReport/test_allure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/basicSyn/emailList.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/basicSyn/emailList.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/basicSyn/gotomeeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/basicSyn/gotomeeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/driver/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/driver/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonSeleniumProject/output/htmlreport.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonSeleniumProject/output/htmlreport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Target2020PyAuto/.idea/Target20.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Target2020PyAuto/.idea/Target20.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Target2020PyAuto/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Target2020PyAuto/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Target2020PyAuto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Target2020PyAuto/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/DragNDrop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/MouseActions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/SSLCertificate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/Frames.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/MultiselectValues.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Target2020PyAuto/SeleniumBuiltins/WebTable.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/Windohandling.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../PythonSeleniumProject/appium_ios_android/launch_App.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="22" selection-start-line="22" selection-end-line="36" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../PythonSeleniumProject/appium_ios_android/launch_App_camera.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/browserLaunch/launchChrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PythonSeleniumProject" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day1/pythonBasics.py" />
+        <option value="$PROJECT_DIR$/day1/LearningComments.py" />
+        <option value="$PROJECT_DIR$/day1/userInput.py" />
+        <option value="$PROJECT_DIR$/day1/calculator.py" />
+        <option value="$PROJECT_DIR$/day1/DataTypes.py" />
+        <option value="$PROJECT_DIR$/day2/listOfKeyword.py" />
+        <option value="$PROJECT_DIR$/day2/AssigningValue.py" />
+        <option value="$PROJECT_DIR$/day2/slicing.py" />
+        <option value="$PROJECT_DIR$/day2/exampleForIndex.py" />
+        <option value="$PROJECT_DIR$/day2/ExampleReplace.py" />
+        <option value="$PROJECT_DIR$/day2/StringManupulation2.py" />
+        <option value="$PROJECT_DIR$/day2/StringManupulation3.py" />
+        <option value="$PROJECT_DIR$/day3/StringManupulation3.py" />
+        <option value="$PROJECT_DIR$/day2/StringManupualtion.py" />
+        <option value="$PROJECT_DIR$/day2/StringCancatination.py" />
+        <option value="$PROJECT_DIR$/day2/StringExample.py" />
+        <option value="$PROJECT_DIR$/day2/Program1.py" />
+        <option value="$PROJECT_DIR$/day3/operators.py" />
+        <option value="$PROJECT_DIR$/day3/operators1.py" />
+        <option value="$PROJECT_DIR$/day4.py" />
+        <option value="$PROJECT_DIR$/day2/StringManupulation1.py" />
+        <option value="$PROJECT_DIR$/day4/conditions1.py" />
+        <option value="$PROJECT_DIR$/day4/conditions.py" />
+        <option value="$PROJECT_DIR$/day4/loops1.py" />
+        <option value="$PROJECT_DIR$/day4/loops2.py" />
+        <option value="$PROJECT_DIR$/day4/loop3.py" />
+        <option value="$PROJECT_DIR$/day4/loop5.py" />
+        <option value="$PROJECT_DIR$/day4/Summation.py" />
+        <option value="$PROJECT_DIR$/day4/loop4.py" />
+        <option value="$PROJECT_DIR$/day4/loop6.py" />
+        <option value="$PROJECT_DIR$/day5/list1.py" />
+        <option value="$PROJECT_DIR$/day5/list2.py" />
+        <option value="$PROJECT_DIR$/day5/list3.py" />
+        <option value="$PROJECT_DIR$/day5/list4.py" />
+        <option value="$PROJECT_DIR$/day5/list5.py" />
+        <option value="$PROJECT_DIR$/Day6/dict1.py" />
+        <option value="$PROJECT_DIR$/day5/SeleniumExampleForList.py" />
+        <option value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/DragNDrop.py" />
+        <option value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/MouseActions.py" />
+        <option value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/browserLaunch/launchChrome.py" />
+        <option value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/Frames.py" />
+        <option value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/Windohandling.py" />
+        <option value="$PROJECT_DIR$/../PythonSeleniumProject/appium_ios_android/launch_App.py" />
+        <option value="$PROJECT_DIR$/../PythonSeleniumProject/appium_ios_android/launch_App_camera.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GlobeMaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="virginia2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PythonSeleniumProject/appium_ios_android" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../PythonSeleniumProject/appium_ios_android" />
+      <recent name="$PROJECT_DIR$/driver" />
+      <recent name="$PROJECT_DIR$/day5" />
+      <recent name="$PROJECT_DIR$/day4" />
+      <recent name="$PROJECT_DIR$/day3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MultiselectValues">
+    <configuration name="DragNDrop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="virginia2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/DragNDrop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Frames" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="virginia2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/Frames.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MouseActions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="virginia2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/MouseActions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MultiselectValues" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="virginia2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/MultiselectValues.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SSLCertificate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="virginia2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/SSLCertificate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MultiselectValues" />
+        <item itemvalue="Python.Frames" />
+        <item itemvalue="Python.SSLCertificate" />
+        <item itemvalue="Python.MouseActions" />
+        <item itemvalue="Python.DragNDrop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec53dbc3-4531-47b3-9386-52f10e3f0f16" name="Default Changelist" comment="" />
+      <created>1583981002267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583981002267</updated>
+      <workItem from="1583981004884" duration="2047000" />
+      <workItem from="1584323792169" duration="21000" />
+      <workItem from="1584323847245" duration="1937000" />
+      <workItem from="1584409647342" duration="4861000" />
+      <workItem from="1584941378952" duration="2315000" />
+      <workItem from="1585014503501" duration="2512000" />
+      <workItem from="1585187604752" duration="2125000" />
+      <workItem from="1585273501954" duration="2313000" />
+      <workItem from="1585295393677" duration="3369000" />
+      <workItem from="1585409190510" duration="1124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22624000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="834" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.34107402" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32918552" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32918552" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.2991453" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.39914772" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.32992464" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.33381712" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32918552" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32918552" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.2991453" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.39914772" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" weight="0.32992464" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day4/conditions.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day4/conditions.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day4/conditions.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day4/conditions.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GlobeMaster$listOfKeyword.coverage" NAME="listOfKeyword Coverage Results" MODIFIED="1584325564811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$conditions.coverage" NAME="conditions Coverage Results" MODIFIED="1584942655849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$StringManupulation1.coverage" NAME="StringManupulation1 Coverage Results" MODIFIED="1584410821161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$StringExample.coverage" NAME="StringExample Coverage Results" MODIFIED="1584497301935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$MultiselectValues.coverage" NAME="MultiselectValues Coverage Results" MODIFIED="1585324209460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$loop3.coverage" NAME="loop3 Coverage Results" MODIFIED="1584943657697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$list2.coverage" NAME="list2 Coverage Results" MODIFIED="1585016147127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$operators1.coverage" NAME="operators1 Coverage Results" MODIFIED="1584498473534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$list5.coverage" NAME="list5 Coverage Results" MODIFIED="1585274326656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$DataTypes.coverage" NAME="DataTypes Coverage Results" MODIFIED="1584324885362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$ExampleReplace.coverage" NAME="ExampleReplace Coverage Results" MODIFIED="1584411367419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$Program1.coverage" NAME="Program1 Coverage Results" MODIFIED="1584497303877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$StringManupualtion.coverage" NAME="StringManupualtion Coverage Results" MODIFIED="1584411954614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$DragNDrop.coverage" NAME="DragNDrop Coverage Results" MODIFIED="1585323154414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$LearningComments.coverage" NAME="LearningComments Coverage Results" MODIFIED="1584324586712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$loops1.coverage" NAME="loops1 Coverage Results" MODIFIED="1584943138074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$StringManupulation2.coverage" NAME="StringManupulation2 Coverage Results" MODIFIED="1584411648007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$loop5.coverage" NAME="loop5 Coverage Results" MODIFIED="1584943705744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$StringCancatination.coverage" NAME="StringCancatination Coverage Results" MODIFIED="1584496881547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$list3.coverage" NAME="list3 Coverage Results" MODIFIED="1585016609302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$SSLCertificate.coverage" NAME="SSLCertificate Coverage Results" MODIFIED="1585323577375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$dict1.coverage" NAME="dict1 Coverage Results" MODIFIED="1585275832704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day6" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$MouseActions.coverage" NAME="MouseActions Coverage Results" MODIFIED="1585323388325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$exampleForIndex.coverage" NAME="exampleForIndex Coverage Results" MODIFIED="1584410140292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$SeleniumExampleForList.coverage" NAME="SeleniumExampleForList Coverage Results" MODIFIED="1585295641291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$operators.coverage" NAME="operators Coverage Results" MODIFIED="1584498163654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$conditions1.coverage" NAME="conditions1 Coverage Results" MODIFIED="1584942827474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$Summation.coverage" NAME="Summation Coverage Results" MODIFIED="1585014763206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$AssigningValue.coverage" NAME="AssigningValue Coverage Results" MODIFIED="1584409716873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$loop6.coverage" NAME="loop6 Coverage Results" MODIFIED="1585014995348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$userInput.coverage" NAME="userInput Coverage Results" MODIFIED="1583982971560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$loops2.coverage" NAME="loops2 Coverage Results" MODIFIED="1584943353621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$loop4.coverage" NAME="loop4 Coverage Results" MODIFIED="1585014955635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$list4.coverage" NAME="list4 Coverage Results" MODIFIED="1585274227178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$Frames.coverage" NAME="Frames Coverage Results" MODIFIED="1585324082356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$list1.coverage" NAME="list1 Coverage Results" MODIFIED="1585015606338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day5" />
+    <SUITE FILE_PATH="coverage/GlobeMaster$pythonBasics.coverage" NAME="pythonBasics Coverage Results" MODIFIED="1584324595479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day2/AssigningValue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/listOfKeyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/exampleForIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/pythonBasics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/DataTypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/LearningComments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/StringManupulation3.py" />
+    <entry file="file://$PROJECT_DIR$/day3/StringManupulation3.py" />
+    <entry file="file://$PROJECT_DIR$/day2/slicing.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/StringCancatination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/Program1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/ExampleReplace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/operators1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day3/operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/StringManupulation2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/StringManupualtion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/StringExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4.py" />
+    <entry file="file://$PROJECT_DIR$/day2/StringManupulation1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/conditions1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/Summation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/loop3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/loop4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/loop5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/loop6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/loops1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Target2020PyAuto/Day7/LaunchchromeUsingWM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/SeleniumExampleForList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day4/loops2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/list1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/dict1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Target2020PyAuto/browserLaunch/launchChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/list2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/list3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/list4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/list5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/WebTable.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/Autosuggest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/DragNDrop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/MouseActions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/SSLCertificate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/Frames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/MultiselectValues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Target2020PyAuto/SeleniumBuiltins/WebTable.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/browserLaunch/launchChrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../virginia2020/pythonseleniumproject/SeleneiumBuiltinsMethods/Windohandling.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonSeleniumProject/appium_ios_android/launch_App.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="22" selection-start-line="22" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PythonSeleniumProject/appium_ios_android/launch_App_camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
